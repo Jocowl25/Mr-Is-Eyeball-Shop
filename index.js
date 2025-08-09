@@ -52,7 +52,7 @@ const dialogue=[
     "So make sure you get them all, ok?",
     "(Surely the witch didn't curse them to fall forever... right?)",
     "...",
-    `Anyways, for my final words of wisdom, press "M" to mute and unmute the music!`,
+    `Anyways, for my final words of wisdom, press "M" to mute and unmute the audio!`,
     "It looks like we're out of time— I hear them coming!",
     "Good luck!",
 ]
