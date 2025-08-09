@@ -4,9 +4,6 @@ Move the mouse to move Mr. I, and catch the eyeballs on the ends of his beard to
 
 Press M to mute/unmute the sounds.
 
-Credits:
-
-All code and design by TumbleBee55 (No libraries, because I don't know how. Vanilla HTML/CSS/JS)
 
 Art and Sound effects were edited from the sources below:
 
