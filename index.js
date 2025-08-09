@@ -44,7 +44,7 @@ const dialogue=[
     "/You can use my eye sockets to help line up the ball. Either side can be used to loop!", //example roll2
     "/If you miss and it lands on my mouth, then the eyeball will bounce right back up.", //example bounce
     "That fractures the eyeball though, so make sure not to bounce it too much!",
-    "There's one more thing you need to know.",
+    "There's another thing you need to know.",
     "That white bar up there keeps track of my inventory.",
     "When we save an eyeball, it increases, and when one breaks, it decreases.",
     "If it goes down to zero...",
@@ -52,8 +52,9 @@ const dialogue=[
     "So make sure you get them all, ok?",
     "(Surely the witch didn't curse them to fall forever... right?)",
     "...",
-    "Anyways, it looks like we're out of time— I hear them coming!",
-    "Good luck!"//start
+    `Anyways, for my final words of wisdom, press "M" to mute and unmute the music!`,
+    "It looks like we're out of time— I hear them coming!",
+    "Good luck!",
 ]
 let height=window.innerHeight
 let width=window.innerWidth
